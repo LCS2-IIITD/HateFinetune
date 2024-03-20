@@ -1,12 +1,14 @@
-# HateFinetune
+# Probing Critical Learning Dynamics of PLMs for Hate Speech Detection
 
 This repository contains the code for the paper [Probing Critical Learning Dynamics of PLMs for Hate Speech Detection](https://aclanthology.org/2024.findings-eacl.55/) accepted in the Findings of the Association for Computational Linguistics: EACL 2024
 
-The `Data` dir has all the information to obtain the process the datasets while the `Experiments` dir has subfolders corresponding to different experiments from the paper.
+Authors: Sarah Masud*, Mohammad Aflah Khan*, Vikram Goyal, Md Shad Akhtar, Tanmoy Chakraborty
 
-For any question raise an issue on Github
+The `Data` dir has all the information to obtain the process the datasets while the `Experiments` dir has subfolders corresponding to different experiments from the paper. Each subfolder has a separate README for instructions to run the experiment.
 
-If you find our work helpful, please don't forget to cite us -
+For any question please raise an issue on Github
+
+If you find our work helpful, don't forget to cite us 😉
 
 ```
 @inproceedings{masud-etal-2024-probing,
