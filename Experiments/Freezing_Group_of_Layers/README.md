@@ -1,4 +1,4 @@
-# Classifier Complexity Evaluation (RQ4)
+# Freezing Region of Layers (RQ4)
 
 Run `run.py` to run all the experiments for all 4 regions across both settings for all 3 seeds across all 7 datasets and 4 models.
 

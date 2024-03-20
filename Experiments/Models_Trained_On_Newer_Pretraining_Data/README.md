@@ -1,4 +1,4 @@
-# Classifier Complexity Evaluation (RQ4)
+# Models Trained on Newer Pretraining Data (RQ3)
 
 Run `run.py` to run all the experiments for all 7 datasets and 3 models.
 
